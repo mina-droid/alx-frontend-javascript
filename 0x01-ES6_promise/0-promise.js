@@ -1,4 +1,4 @@
-function getResponseFromAPI() {
+export function getResponseFromAPI() {
     const p = new Promise(function (resolve, reject) {
         return resolve;
     })
